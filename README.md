@@ -8,5 +8,8 @@
 - Same logic, only difference is the parameters. This time we use 'ENGINESIZE','CYLINDERS','FUELCONSUMPTION_COMB' for to predict Emissions.
 ![ML1](https://i.morioh.com/2020/04/14/74bd389a2f28.jpg)
 
+## 3) Non-Linear Regression
+- This time x's degree is not 1, so that's why it is non-linear. 
+![NL1](https://github.com/Frightera/ML-Algorithms/blob/master/Readme%20Images/EngineSize%20Poly.png)
 # Resources
 * https://www.displayr.com/what-is-linear-regression/
