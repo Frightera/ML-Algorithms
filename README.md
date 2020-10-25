@@ -17,6 +17,11 @@
 particular data point it is run completely through the entirely tree by answering questions till reaches the leaf node.
 ![DT](https://github.com/Frightera/ML-Algorithms/blob/master/Readme%20Images/drugtree.png)
 
+## 5) K Nearest Neighbors
+- KNN is a supervised learning algorithm that assumes the similarity between the new case/data and available cases and put the new case into the category that is most similar to the available categories. It is mostly used for classification but can be used for regression as well.
+- (Errata Y = 0.15)
+![KNN](https://github.com/Frightera/ML-Algorithms/blob/master/Readme%20Images/KNN%20Explained.jpg)
+
 # Resources
 * https://www.displayr.com/what-is-linear-regression/
 * https://www.kdnuggets.com/2020/01/decision-tree-algorithm-explained.html
