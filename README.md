@@ -25,6 +25,9 @@ particular data point it is run completely through the entirely tree by answerin
 ## 6) Support Vector Machines (SVM)
 ![SVM](https://github.com/Frightera/ML-Algorithms/blob/master/Readme%20Images/support-vector-machine-algorithm.png)
 
+## 7) K-Means Algorithm
+![KM](https://github.com/Frightera/ML-Algorithms/blob/master/Readme%20Images/k%20means.png)
+
 # Resources
 * https://www.displayr.com/what-is-linear-regression/
 * https://www.kdnuggets.com/2020/01/decision-tree-algorithm-explained.html
