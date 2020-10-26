@@ -22,6 +22,9 @@ particular data point it is run completely through the entirely tree by answerin
 - (Errata Y = 0.15)
 ![KNN](https://github.com/Frightera/ML-Algorithms/blob/master/Readme%20Images/KNN%20Explained.jpg)
 
+## 6) Support Vector Machines (SVM)
+![SVM](https://github.com/Frightera/ML-Algorithms/blob/master/Readme%20Images/support-vector-machine-algorithm.png)
+
 # Resources
 * https://www.displayr.com/what-is-linear-regression/
 * https://www.kdnuggets.com/2020/01/decision-tree-algorithm-explained.html
