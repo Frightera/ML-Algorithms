@@ -26,6 +26,7 @@ particular data point it is run completely through the entirely tree by answerin
 ![SVM](https://github.com/Frightera/ML-Algorithms/blob/master/Readme%20Images/support-vector-machine-algorithm.png)
 
 ## 7) K-Means Algorithm
+- (As notebook is large, it may fail to open. Try to refresh it several times then close the tab. After that open it again, it should be visible. If not refrest it again.)
 ![KM](https://github.com/Frightera/ML-Algorithms/blob/master/Readme%20Images/k%20means.png)
 
 # Resources
