@@ -127,12 +127,3 @@ y_hat = y_hat.reshape(-1,1)
 from sklearn.metrics import f1_score
 f1_score(y_test, y_hat, average='weighted') 
 # 0.9835708624725525
-
-
-
-
-
-
-
-
-
